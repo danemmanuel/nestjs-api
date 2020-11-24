@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="632622ee-1003-4061-adc6-57454772985c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/product/interfaces/product.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/product/interfaces/product.interface.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/product/product.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/product/product.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/product/product.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/product/product.service.ts" afterDir="false" />
+    <list default="true" id="632622ee-1003-4061-adc6-57454772985c" name="Default Changelist" comment="s">
+      <change afterPath="$PROJECT_DIR$/src/google/google.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/google/google.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/google/google.strategy.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.module.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +43,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606244024690</updated>
-      <workItem from="1606244025771" duration="1045000" />
+      <workItem from="1606244025771" duration="3330000" />
     </task>
+    <task id="LOCAL-00001" summary="s">
+      <created>1606245093754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606245093754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="s" />
+    <option name="LAST_COMMIT_MESSAGE" value="s" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1783" y="0" key="CommitChangelistDialog2" timestamp="1606246148543">
+      <screen x="1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="1783" y="0" key="CommitChangelistDialog2/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1606246148543" />
+    <state x="1576" y="68" key="DiffContextDialog" timestamp="1606246126057">
+      <screen x="1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="1576" y="68" key="DiffContextDialog/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1606246126057" />
+    <state x="1752" y="163" key="Vcs.Push.Dialog.v2" timestamp="1606245252292">
+      <screen x="1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="1752" y="163" key="Vcs.Push.Dialog.v2/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1606245252292" />
   </component>
 </project>

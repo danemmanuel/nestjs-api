@@ -3,6 +3,9 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { MongooseModule } from '@nestjs/mongoose';
 import { ProductModule } from './product/product.module';
+import { GoogleController } from './google/google.controller';
+import { GoogleService } from './google/google.service';
+import { GoogleStrategy } from './google/google.strategy';
 
 @Module({
   imports: [
@@ -11,7 +14,7 @@ import { ProductModule } from './product/product.module';
     }),
     ProductModule,
   ],
-  controllers: [AppController],
-  providers: [AppService],
+  controllers: [AppController, GoogleController],
+  providers: [AppService, GoogleService, GoogleStrategy],
 })
 export class AppModule {}
